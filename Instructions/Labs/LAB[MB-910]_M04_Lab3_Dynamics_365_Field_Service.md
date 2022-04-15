@@ -2,12 +2,12 @@
 lab:
   title: Лабораторная работа 4.3. Итоговая работа по Dynamics 365 Field Service
   module: 'Module 4: Learn the Fundamentals of Dynamics 365 Field Service'
-ms.openlocfilehash: f3a0b281cf2f6b342b789bffa977d57de8b9dcf6
-ms.sourcegitcommit: 600ccb76999dbc6fe9f7eaece0c235b0e85706ed
+ms.openlocfilehash: 6bddf66b1b4e4c11941e5b1f4b3c64e0ff5cbf8c
+ms.sourcegitcommit: 72aae532f6c367bd6e48570b827f7289171f2b31
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/27/2022
-ms.locfileid: "137909086"
+ms.lasthandoff: 04/11/2022
+ms.locfileid: "141605552"
 ---
 <a name="module-4-learn-the-fundamentals-of-dynamics-365-field-service"></a>Модуль 4. Изучение основ Dynamics 365 Field Service
 ========================
@@ -98,7 +98,7 @@ ms.locfileid: "137909086"
 
  
 
-### <a name="task-2-manually-create-a-word-order"></a>Задача 2. Создание заказа на работу вручную
+### <a name="task-2-manually-create-a-work-order"></a>Задача 2. Создание заказа на работу вручную
 
 Мы вернемся к созданной вами записи обращения позже. Далее рассмотрим, как вручную создать запись заказа на работу. 
 
