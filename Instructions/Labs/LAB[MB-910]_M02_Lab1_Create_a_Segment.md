@@ -2,12 +2,12 @@
 lab:
   title: Лабораторная работа 2.1. Создание сегмента в Dynamics 365 Marketing
   module: 'Module 2: Learn the Fundamentals of Dynamics 365 Marketing'
-ms.openlocfilehash: 159f9c048a9dd746b9d0c83ee5692a5a648351de
-ms.sourcegitcommit: 6065e6a662bd0407d37fcc565c1b2da1c916255d
+ms.openlocfilehash: 40c22a4ed1c45da04a0f1a686be6f8fa16b09a69
+ms.sourcegitcommit: 5d822ceab64fbb8615808dcdebeff848eec6ee25
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "144405024"
+ms.lasthandoff: 09/06/2022
+ms.locfileid: "147855076"
 ---
 <a name="module-2-learn-the-fundamentals-of-dynamics-365-marketing"></a>Модуль 2: Изучение основ Dynamics 365 Marketing
 ========================
