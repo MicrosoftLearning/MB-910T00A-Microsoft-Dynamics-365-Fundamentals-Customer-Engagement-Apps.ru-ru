@@ -2,13 +2,8 @@
 lab:
   title: Лабораторная работа 1.1. Работа с приложениями для взаимодействия с клиентами
   module: 'Module 1: Examine the core capabilities of Dynamics 365 (CRM)'
-ms.openlocfilehash: b480ae2128d5735172f1d005f2ecbfcb3b8a53f9
-ms.sourcegitcommit: 6065e6a662bd0407d37fcc565c1b2da1c916255d
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "144405032"
 ---
+
 <a name="module-1-examine-the-core-capabilities-of-dynamics-365-crm"></a>Модуль 1. Изучение основных возможностей Dynamics 365 (CRM)
 ========================
 
@@ -39,11 +34,11 @@ ms.locfileid: "144405032"
 
 1. Перейдите по адресу https://admin.powerplatform.microsoft.com/environments.
 
-2. Выберите среду WWLLABnnn, где nnn — число. Это общая среда Dynamics 365, где вы будете проводить все лабораторные работы.
+2. Выберите среду WWLLABnnn, где nnn — число. Это общая среда Dynamics 365, где вы будете выполнять все задания.
 
-3. Щелкните "Открыть среду".
+3. Нажмите **Открыть** в меню сверху или щелкните URL-адрес среды WWLLABnnn.
 
-4. Разверните кнопку-переключатель средства запуска приложений в верхнем левом углу экрана, расположенную непосредственно слева от Центра администрирования Power Platform. Выберите приложение Dynamics 365 Marketing, чтобы запустить его.
+4. Выберите приложение **Marketing**, чтобы запустить его.
 
 5. Изучите панель навигации слева. Кнопка на нижней панели позволяет изменять области. Сейчас вы просматриваете область Marketing.
 
