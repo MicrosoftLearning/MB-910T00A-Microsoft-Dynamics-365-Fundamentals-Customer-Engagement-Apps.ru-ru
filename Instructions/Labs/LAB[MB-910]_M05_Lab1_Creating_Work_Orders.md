@@ -2,13 +2,8 @@
 lab:
   title: Лабораторная работа 5.1. создание заказов на работу в Dynamics 365 Field Service
   module: 'Module 5: Learn the Fundamentals of Dynamics 365 Field Service'
-ms.openlocfilehash: fa0e8af72df342a72267895d9318ce3f625633b5
-ms.sourcegitcommit: 6065e6a662bd0407d37fcc565c1b2da1c916255d
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "144405098"
 ---
+
 <a name="module-5-learn-the-fundamentals-of-dynamics-365-field-service"></a>Модуль 5. Изучение основ Dynamics 365 Field Service
 ========================
 
@@ -20,7 +15,7 @@ ms.locfileid: "144405098"
 
 ## <a name="instructions"></a>Инструкции
 
-1. Используя навигацию в левой части экрана, выберите **Заказы на работу**.
+1. Откройте приложение **Dynamics 365 Field Service**, если оно еще не открыто. В меню слева в разделе **Планирование** выберите **Заказы на работу**.
 
 2. На **панели команд** нажмите кнопку **Создать**, чтобы создать новый заказ на работу.
 
