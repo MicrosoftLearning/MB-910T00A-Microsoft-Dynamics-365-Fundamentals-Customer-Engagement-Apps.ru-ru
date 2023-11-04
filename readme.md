@@ -1,4 +1,4 @@
-# MB-910T00A: Microsoft Dynamics 365 основы приложений для взаимодействия с клиентами
+# MB-910T00A: Microsoft Dynamics 365 Fundamentals (CRM)
 
 - **[Скачать последнюю версию справочника для учащихся и материалы в виде пакета AllFiles](https://learningdownloadcenter.microsoft.com/)**
 - **Вы MCT?** Ознакомьтесь с нашим [руководством пользователя GitHub для MCT](https://microsoftlearning.github.io/MCT-User-Guide/)
